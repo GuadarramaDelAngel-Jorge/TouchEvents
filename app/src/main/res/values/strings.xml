@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TouchEvents</string>
+    <string name="name">Hello Gesture</string>
+    <string name="otherName">Hello World</string>
+    <string name="LongPress">You are using LongPress </string>
+    <string name="onFling">You are using onFlings </string>
+    <string name="ShowPress">You are using ShowPress </string>
+    <string name="SingleTapUp">You are using SingleTapUp </string>
+    <string name="DoubleTap">You are using DoubleTap</string>
+    <string name="DoubleTapEvent">You are using DoubleTapEvent</string>
+    <string name="SingleTapConfirmed">SingleTap</string>
+    <string name="Down">You are using Down</string>
+    <string name="Scroll">You are using Scroll</string>
+</resources>
